@@ -1,51 +1,79 @@
-<h2 align="left">Merhaba 👋 Ben Lyrix</h2>
-
-###
-
+![](https://komarev.com/ghpvc/?username=fridayonline&color=blue)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lyrixsqu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <a href="https://github.com/fridayonline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Mentalité+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
 </div>
 
-###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1264672014627635301/1265404011968860170/c0cca609fa70634009f4f152bc23232b.webp?ex=66a20b92&is=66a0ba12&hm=a65d9550b7e7cb776cc56ff8fd73a1031a1b5cc14249212469a72f2752740036&"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/borapsv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+
+
+<!--
+<details>
+  <summary>:zap: GitHub Stats</summary> 
+-->
+
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lyrixsqu/Lyrixsqu/output/snake.svg" alt="Snake animation" />
-
+###
 ###
 
-<div align="center">
-</div>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+About+Me" alt="Typing SVG" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Selamlar+ben+Mentalité?+evet+bu+kadardı+iyi+günler." alt="Mentalité" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3154kokrku3mmfw7rnjdhchmppte&width={width})">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=3154kokrku3mmfw7rnjdhchmppte&width=%7Bwidth%7D)&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
+###
+
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
+
+[![Discord Profilim](https://lanyard.cnrad.dev/api/788686743427612673)](https://discord.com/users/788686743427612673)
+
+ <br />
+ 
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Lang's" alt="Typing SVG" /></h1>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
+<br />
+
+
+ <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Spotify+" alt="Typing SVG" /></h1>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=66rstk1lckq8f58fhjh4rdz6h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=66rstk1lckq8f58fhjh4rdz6h&redirect=true)
+
+
+ 
+ <br />
+ 
+  
+  
+
+ <!--
+
+
+<br />
+
+
+
+<br />
+
+
+<br />
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
